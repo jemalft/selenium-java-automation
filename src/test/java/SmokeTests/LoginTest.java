@@ -1,4 +1,4 @@
-package com.zoomdataJemal.smokeTests;
+package SmokeTests;
 
 import com.zoomdataJemal.BaseClass;
 import com.zoomdataJemal.Pages;
